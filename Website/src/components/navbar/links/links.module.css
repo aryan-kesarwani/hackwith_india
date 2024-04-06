@@ -1,0 +1,22 @@
+.container{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.links{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.logout{
+    padding:1vh;
+    background-color: rgb(235, 240, 163);
+    color: black;
+    border-radius: 25px;
+    transition: all ease 0.4s;
+}
+.logout:hover{
+    color: white;
+    background-color: black;
+}

@@ -1,0 +1,19 @@
+.container{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-self: center ;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 0 8rem;
+    top: 18rem;
+}
+.btn{
+    padding: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 25px;
+    font-weight: bolder;
+}
